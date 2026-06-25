@@ -37,3 +37,4 @@ description = "A tile server for WSI stored in S3-compatible object storage."
 # drop an unused branch
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# drop an unused branch
